@@ -1,4 +1,5 @@
-### Olá! Eu sou a Kamila Luz 👋
+### Olá! 
+# Sou a Kamila Luz 👋
 ##
 
 - 🥰 Engenheira apaixonada por desafios.
@@ -22,9 +23,9 @@
     <div style="display: inline_block">
       <img align="center" alt="Kamila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Kamila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Kamila-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-      <img align="center" alt="Kamila-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-      <img align="center" alt="Kamila-Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+       <img align="center" alt="Kamila-Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">      
+      <img align="center" alt="Kamila-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">     
       <img align="center" alt="Kamila-Postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+      <img align="center" alt="Kamila-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 
 ##
