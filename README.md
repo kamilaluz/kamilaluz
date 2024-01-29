@@ -2,11 +2,8 @@
 # Sou a Kamila Luz 👋
 ##
 
-- 🥰 Engenheira apaixonada por desafios.
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Estudando Python.
-- 🔭 Em busca de uma oportunidade na área da tecnologia.
-
+- Cursando Análise e Desenvolvimento de Sistemas.
+- Adoro desafios, por isso estou em transição de carreira para a área de TI. 
 
 <h3>Github Stats</h3>
   <div>
