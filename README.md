@@ -1,28 +1,26 @@
-### Olá! 
-# Sou a Kamila Luz 👋
-##
+### Olá! 👋
 
-- Cursando Análise e Desenvolvimento de Sistemas.
-- Adoro desafios, por isso estou em transição de carreira para a área de TI. 
+Sou a Kamila, desenvolvedora Back-end e entusiasta da área de dados. 
 
-<h3>Github Stats</h3>
-  <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kamilaluz&show_icons-true&theme=radical&include_all_comits-true&count_private-true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilaluz&layout=compact&theme=radical"/>
-  </div>
-  <h3>Contato</h3>
-  <div>
-    <a href="https://www.linkedin.com/in/kamila-luz-b1a090136" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://wa.me/5547988816386" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  </div>
-  <h3>Skills</h3>
-  <div>
-    <div style="display: inline_block">
-      <img align="center" alt="Kamila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Kamila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-       <img align="center" alt="Kamila-Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">      
-      <img align="center" alt="Kamila-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">     
-      <img align="center" alt="Kamila-Postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-      <img align="center" alt="Kamila-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+[![Linkedin: Kamila](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-luz-b1a090136)](https://www.linkedin.com/in/kamila-luz-b1a090136)
+
+## ⚡ Tecnologias
+
+Aqui estão algumas tecnologias e ferramentas que eu trabalho:
+
+![CSharp](https://img.shields.io/badge/-csharp-purple?style=flat-square&logo=csharp)
+![.Net](https://img.shields.io/badge/-.NET-purple?style=flat-square&logo=dotnet)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/-visualstudio-purple?style=flat-square&logo=visualstudio)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+ 
+      
 
 ##
