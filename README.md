@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Sou a Kamila, desenvolvedora Back-end e entusiasta da área de dados. 
+Sou a Kamila, desenvolvedora de software e analista de QA. 
 
 [![Linkedin: Kamila](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-luz-b1a090136)](https://www.linkedin.com/in/kamila-luz-b1a090136)
 
