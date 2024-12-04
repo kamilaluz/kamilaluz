@@ -4,10 +4,10 @@ I'm a Back-end Software Developer and Quality Assurance.
 
 [![Linkedin: Kamila](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-luz-b1a090136)](https://www.linkedin.com/in/kamila-luz-b1a090136)
 
-## ⚡ Languages, technologies and tools I use:
+#### ⚡ Languages, technologies and tools I use:
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,cs,postgresql,mysql,dotnet,git,github,postman,vscode,visualstudio,nodejs,cypress,html,css,jquery,bootstrap,looker&perline=6&titles=true)
-##
+####
 
 
 <div style="display: inline_block">
