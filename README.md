@@ -6,7 +6,7 @@ I'm a Back-end Software Developer and Quality Assurance.
 
 #### ⚡ Languages, technologies and tools I use:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,cs,postgresql,mysql,dotnet,git,github,postman,vscode,visualstudio,nodejs,cypress,html,css,jquery,bootstrap,looker&perline=6&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,cs,postgresql,mysql,dotnet,git,github,postman,vscode,visualstudio,nodejs,cypress,html,css,jquery,bootstrap,looker,excel&perline=6&titles=true)
 ####
 
 
