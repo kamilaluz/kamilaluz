@@ -1,6 +1,6 @@
 ### Hi, I'm Kamila Luz 👋
 
-I'm a Back-end Software Developer and Quality Assurance.
+I'm a Back-end Software Developer and Quality Assurance analyst.
 
 [![Linkedin: Kamila](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-luz-b1a090136)](https://www.linkedin.com/in/kamila-luz-b1a090136)
 
