@@ -1,12 +1,10 @@
 ### Hi, I'm Kamila Luz 👋
 
-I'm a Back-end Software Developer and Quality Assurance analyst.
-
 [![Linkedin: Kamila](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-luz-b1a090136)](https://www.linkedin.com/in/kamila-luz-b1a090136)
 
-#### ⚡ Languages, technologies and tools I use:
+#### ⚡ Languages, technologies and tools I have knowledge:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,html,css,js,postgresql,mysql,dotnet,git,github,postman,vscode,visualstudio,nodejs,cypress,jquery,bootstrap,looker,excel&perline=6&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,html,css,js,postgresql,mysql,dotnet,git,github,postman,vscode,visualstudio,nodejs,cypress,jquery,bootstrap,looker&perline=6&titles=true)
 ####
 
 
